@@ -61,7 +61,7 @@
     "mocha": "^3.4.2",
     "mock-local-storage": "^1.0.2",
     "moxios": "^0.4.0",
-    "nightwatch": "^0.9.16",
+    "nightwatch": "^1.7.11",
     "nock": "^9.0.13",
     "nodemon": "^1.11.0",
     "nyc": "^10.3.0",
