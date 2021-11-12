@@ -52,7 +52,7 @@
     "coveralls": "^2.13.1",
     "create-react-class": "^15.5.2",
     "eslint": "^3.19.0",
-    "eslint-config-airbnb": "^15.0.1",
+    "eslint-config-airbnb": "^19.0.0",
     "eslint-config-airbnb-base": "^11.2.0",
     "eslint-plugin-import": "^2.3.0",
     "eslint-plugin-jsx-a11y": "^5.0.3",
