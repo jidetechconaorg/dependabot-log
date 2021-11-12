@@ -116,7 +116,7 @@
     "redux-immutable-state-invariant": "1.2.3",
     "redux-persist": "^4.8.0",
     "redux-thunk": "2.0.1",
-    "sass-loader": "^3.1.2",
+    "sass-loader": "^4.1.1",
     "script-loader": "^0.6.1",
     "sequelize": "^3.30.4",
     "sinon": "^2.3.4",
