@@ -62,7 +62,7 @@
     "mock-local-storage": "^1.0.2",
     "moxios": "^0.4.0",
     "nightwatch": "^0.9.16",
-    "nock": "^9.0.13",
+    "nock": "^13.2.2",
     "nodemon": "^1.11.0",
     "nyc": "^10.3.0",
     "redux-mock-store": "^1.2.3",
