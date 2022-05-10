@@ -107,7 +107,7 @@
     "react": "^0.14.8",
     "react-addons-test-utils": "^0.14.8",
     "react-dom": "^0.14.8",
-    "react-froala-wysiwyg": "^2.6.1",
+    "react-froala-wysiwyg": "^4.0.11",
     "react-materialize": "^1.0.1",
     "react-redux": "4.4.5",
     "react-router": "^2.8.1",
