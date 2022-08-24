@@ -100,7 +100,7 @@
     "jsonwebtoken": "^7.4.1",
     "morgan": "^1.8.2",
     "node-sass": "^3.4.2",
-    "pg": "^6.2.3",
+    "pg": "^8.8.0",
     "pg-hstore": "^2.3.2",
     "prop-types": "^15.5.10",
     "rc-pagination": "^1.9.5",
