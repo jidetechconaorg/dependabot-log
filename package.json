@@ -63,7 +63,7 @@
     "moxios": "^0.4.0",
     "nightwatch": "^0.9.16",
     "nock": "^9.0.13",
-    "nodemon": "^1.11.0",
+    "nodemon": "^2.0.22",
     "nyc": "^10.3.0",
     "redux-mock-store": "^1.2.3",
     "selenium-standalone": "^6.5.0",
